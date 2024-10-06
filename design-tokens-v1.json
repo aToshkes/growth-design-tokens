@@ -1,0 +1,278 @@
+{
+  "tokens/default": {
+    "background": {
+      "primary": {
+        "value": "{neutral.50}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{white}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{blue.400}",
+        "type": "color"
+      },
+      "surface-error": {
+        "value": "{red.500}",
+        "type": "color"
+      },
+      "surface-error-tint": {
+        "value": "{red.100}",
+        "type": "color"
+      },
+      "surface-success": {
+        "value": "{green.500}",
+        "type": "color"
+      },
+      "surface-success-tint": {
+        "value": "{green.100}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "primary": {
+        "value": "{white}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{blue.100}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{blue.400}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{blue.950}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{gray.600}",
+        "type": "color"
+      },
+      "invert": {
+        "value": "{white}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{red.600}",
+        "type": "color"
+      },
+      "link-default": {
+        "value": "{blue.500}",
+        "type": "color"
+      },
+      "link-hover": {
+        "value": "{blue.400}",
+        "type": "color"
+      },
+      "link-pressed": {
+        "value": "{blue.700}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{green.600}",
+        "type": "color"
+      }
+    },
+    "borders": {
+      "primary": {
+        "value": "{blue.50}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{blue.500}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{neutral.300}",
+        "type": "color"
+      }
+    },
+    "button": {
+      "primary": {
+        "bg-default": {
+          "value": "{blue.500}",
+          "type": "color"
+        },
+        "bg-hover": {
+          "value": "{blue.400}",
+          "type": "color"
+        },
+        "bg-pressed": {
+          "value": "{blue.700}",
+          "type": "color"
+        },
+        "bg-loading": {
+          "value": "{blue.700}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "bg-default": {
+          "value": "{blue.800}",
+          "type": "color"
+        },
+        "bg-hover": {
+          "value": "{blue.700}",
+          "type": "color"
+        },
+        "bg-pressed": {
+          "value": "{blue.900}",
+          "type": "color"
+        },
+        "bg-loading": {
+          "value": "{blue.900}",
+          "type": "color"
+        }
+      },
+      "ghost": {
+        "bg-default": {
+          "value": "{white}",
+          "type": "color"
+        },
+        "bg-hover": {
+          "value": "{blue.100}",
+          "type": "color"
+        },
+        "bg-pressed": {
+          "value": "{blue.200}",
+          "type": "color"
+        },
+        "border-default": {
+          "value": "{blue.100}",
+          "type": "color"
+        },
+        "border-hover": {
+          "value": "{blue.100}",
+          "type": "color"
+        },
+        "border-pressed": {
+          "value": "{blue.500}",
+          "type": "color"
+        }
+      }
+    },
+    "input": {
+      "bg-default": {
+        "value": "{white}",
+        "type": "color"
+      },
+      "bg-hover": {
+        "value": "{blue.50}",
+        "type": "color"
+      },
+      "bg-active": {
+        "value": "{blue.100}",
+        "type": "color"
+      },
+      "border-default": {
+        "value": "{blue.100}",
+        "type": "color"
+      },
+      "border-hover": {
+        "value": "{blue.200}",
+        "type": "color"
+      },
+      "border-active": {
+        "value": "{blue.500}",
+        "type": "color"
+      },
+      "border-error": {
+        "value": "{red.500}",
+        "type": "color"
+      },
+      "bg-error": {
+        "value": "{red.100}",
+        "type": "color"
+      }
+    },
+    "border-radius": {
+      "medium": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "small": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "x-small": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "large": {
+        "value": "24px",
+        "type": "dimension"
+      },
+      "x-large": {
+        "value": "32px",
+        "type": "dimension"
+      },
+      "xx-large": {
+        "value": "40px",
+        "type": "dimension"
+      },
+      "circle": {
+        "value": "8888px",
+        "type": "dimension"
+      }
+    },
+    "urbanist": {
+      "value": "Urbanist",
+      "type": "fontFamilies"
+    },
+    "heading-1": {
+      "value": {
+        "fontFamily": "{urbanist}",
+        "fontWeight": "700",
+        "fontSize": "56",
+        "lineHeight": "72",
+        "letterSpacing": "0"
+      },
+      "type": "typography"
+    },
+    "heading-2": {
+      "value": {
+        "fontFamily": "{urbanist}",
+        "fontWeight": "700",
+        "fontSize": "48",
+        "lineHeight": "64",
+        "letterSpacing": "0"
+      },
+      "type": "typography"
+    },
+    "heading-3": {
+      "value": {
+        "fontFamily": "{urbanist}",
+        "fontWeight": "700",
+        "fontSize": "32",
+        "lineHeight": "40",
+        "letterSpacing": "0"
+      },
+      "type": "typography"
+    },
+    "heading-4": {
+      "value": {
+        "fontFamily": "{urbanist}",
+        "fontWeight": "700",
+        "fontSize": "24",
+        "lineHeight": "32",
+        "letterSpacing": "0"
+      },
+      "type": "typography"
+    },
+    "heading-5": {
+      "value": {
+        "fontFamily": "{urbanist}",
+        "fontWeight": "700",
+        "fontSize": "18",
+        "lineHeight": "24",
+        "letterSpacing": "0"
+      },
+      "type": "typography"
+    }
+  }
+}
